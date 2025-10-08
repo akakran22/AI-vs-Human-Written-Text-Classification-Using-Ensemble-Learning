@@ -280,9 +280,7 @@ high_confidence = confidences > 0.8
 reliable_predictions = predictions[high_confidence]
 ```
 ## 👥 Authors
-
 Aryan Kakran
 
 
-**Last Updated**: October 2025
-**Version**: 1.0.0
+**Last Updated**: 07 October 2025
